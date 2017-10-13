@@ -1,3 +1,5 @@
 cmp	installed ArchiCAD
-wip	tracing single line plans to ArchiCAD
+cmp	level 1-3 plan drawn in ArchiCAD
+wip	learning to draw feature wall sections for exterior walls
 wip	learning pen style management
+wip	learning drawing list management
