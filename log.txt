@@ -1,3 +1,1 @@
-wip	rethink drawing procedures
-wip	redraw all plans
-TODO	manage and export drawings
+cmp	completed all plan and sections
