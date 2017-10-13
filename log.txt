@@ -1,5 +1,5 @@
-cmp	installed ArchiCAD
-cmp	level 1-3 plan drawn in ArchiCAD
-cmp	level b1 plan drawn in ArchiCAD
-cmp	exterior feature wall drawn
-cmp 	exported pdf set
+wip	study HK sexample project
+wip	learn pen manager
+TODO	rethink drawing procedures
+TODO	redraw all plans
+TODO	manage and export drawings
